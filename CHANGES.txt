@@ -1,3 +1,14 @@
+=== 7.2.0
+
+  * Add debugging information for algorithm of pubkey in use [#918]
+
+=== 7.2.0 rc1
+
+  * Allow IdentityAgent as option to Net::SSH.start [#912]
+
+=== 7.2.0 beta1
+
+  * Support `chacha20-poly1305@opnessh.com` cypher if `RbNaCl` gem is installed [#908]
 
 === 7.1.0
 
